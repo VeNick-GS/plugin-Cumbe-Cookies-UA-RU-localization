@@ -1,0 +1,30 @@
+.cbcookies-text {
+	line-height: 30px;
+}
+#cbcookies_more {
+    text-decoration: underline;
+}
+
+#cbcookies-top{
+    top: 0;
+    font-family: inherit;
+    left: 0;
+    position: fixed;
+    z-index: 9999;
+    width: 100%;
+    text-align: center;
+}
+
+#cbcookies-bottom{
+    bottom: 0;
+    font-family: inherit;
+    left: 0;
+    position: fixed;
+    z-index: 9999;
+    width: 100%;
+    text-align: center;
+}
+.cbcookies-text {
+	background-color: #333 !important;
+	display: inline-block;
+}
