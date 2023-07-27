@@ -1,5 +1,5 @@
 # plugin-Cumbe-Cookies-UA-RU-localization
-plugin-Cumbe-Cookies-UA-RU-localization
+plugin-Cumbe-Cookies-UA-RU-localization for GetSimple Community Edition
 ## Plugin Description: ##
 
 The plugin writes a message in the page of the web for to accept cookies. If cookie is accepted then it creates a cookie in browser.
